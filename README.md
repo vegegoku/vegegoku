@@ -23,17 +23,11 @@ GitHub org: https://github.com/DominoKit
 ## Tech Focus
 
 - Java
-- Quarkus
 - GWT / J2CL
+- Open source
+- Frontend
 - Maven & build tooling
 - Docker & Linux
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vegegoku&show_icons=true&hide_title=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vegegoku&layout=compact&hide_border=true)
 
 ---
 
